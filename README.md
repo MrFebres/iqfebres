@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqfebres" alt="iqfebres" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Cloud Computing (AWS)**
+- 🌱 I’m currently learning **Cloud Computing (AWS)**
 
 - 📫 How to reach me **freddyrfa@gmail.com**
 
